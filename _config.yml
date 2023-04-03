@@ -3,7 +3,7 @@ logo: "/images/me.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   First description 
   <br><br>
-  **Líneas de Investigación:** <br> <br> 
+  <strong>Líneas de Investigación:<strong>
   <ol>
    <li> Modelado matemático y diseño de algoritmos robustos para la optimización de procesos, así como sus aplicaciones en diseño y localización de instalaciones, manufactura y planificación de la producción, así como en logística y distribución. </li>
    <li> Optimización de procesos bajo incertidumbre y a gran escala.  </li>
