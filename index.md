@@ -12,7 +12,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](https://github.com/jonasvelasco2/jonasvelasco2.github.io/other-page)
+[Project 3 Title](https://github.com/jonasvelasco2/jonasvelasco2.github.io/another-page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
