@@ -3,8 +3,12 @@ logo: "/images/me.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   First description 
   <br><br>
-  Líneas de Investigación: <br> 1. Modelado matemático y diseño de algoritmos robustos para la optimización de procesos, así como sus aplicaciones en diseño y localización de instalaciones, manufactura y planificación de la producción, así como en logística y distribución. <br> <br> 2. Optimización de procesos bajo incertidumbre y a gran escala. <br> <br> 3. Analítica avanzada y optimización para la generación de valor agregado en la industria. 
-  <br><br>
+  **Líneas de Investigación:** <br> <br> 
+  <ol>
+   <li> Modelado matemático y diseño de algoritmos robustos para la optimización de procesos, así como sus aplicaciones en diseño y localización de instalaciones, manufactura y planificación de la producción, así como en logística y distribución. </li>
+   <li> Optimización de procesos bajo incertidumbre y a gran escala.  </li>
+   <li> Analítica avanzada y optimización para la generación de valor agregado en la industria. </li>
+  </ol>
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
